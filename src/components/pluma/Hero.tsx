@@ -14,7 +14,7 @@ export function Hero() {
       <div className="relative mx-auto w-full max-w-6xl px-6 py-32 lg:px-10">
         <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-pluma-offwhite md:text-7xl lg:text-8xl">
           Live streaming com<br />
-          <span className="font-serif italic text-pluma-fluor">olhar de cinema.</span>
+          <span className="font-serif italic text-pluma-fluor">estrutura cinematográfica.</span>
         </h1>
         <p className="mt-8 max-w-2xl text-lg leading-relaxed text-pluma-offwhite/80 md:text-xl">
           A Pluma transmite seu evento ao vivo com direção, decupagem e cuidado estético.

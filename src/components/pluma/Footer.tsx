@@ -13,7 +13,7 @@ export function Footer() {
           </div>
           <address className="not-italic space-y-2 text-sm text-pluma-offwhite/70">
             <p>
-              <a href="https://www.instagram.com/pluma.std" target="_blank" rel="noopener noreferrer" className="pluma-underline hover:text-pluma-fluor">
+              <a href="https://www.instagram.com/pluma.ag" target="_blank" rel="noopener noreferrer" className="pluma-underline hover:text-pluma-fluor">
                 Instagram
               </a>
             </p>

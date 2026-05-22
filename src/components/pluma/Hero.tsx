@@ -17,8 +17,7 @@ export function Hero() {
           <span className="font-serif italic text-pluma-fluor">estrutura cinematográfica.</span>
         </h1>
         <p className="mt-8 max-w-2xl text-lg leading-relaxed text-pluma-offwhite/80 md:text-xl">
-          A Pluma transmite seu evento ao vivo com direção, decupagem e cuidado estético.
-          Sem cara de Zoom. Sem equipe genérica.
+          {" "}
         </p>
 
         <div className="mt-12 flex flex-col items-start gap-6 sm:flex-row sm:items-center">

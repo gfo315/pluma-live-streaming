@@ -5,7 +5,7 @@ export function Opening() {
         <p className="font-display text-3xl font-medium leading-tight text-pluma-offwhite md:text-5xl">
           Toda live é um <span className="font-serif italic text-pluma-fluor">filme curto</span> que acontece uma vez só.
         </p>
-        <p className="mt-10 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">
+        <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl text-left">
           Não dá pra refazer a tomada. Não dá pra esperar a próxima edição. O que sai no ar é o que fica.
         </p>
         <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">

@@ -6,10 +6,22 @@ export function Hero() {
       id="top"
       className="relative flex min-h-[80vh] items-center overflow-hidden md:min-h-screen"
     >
-      {/* Animated gradient placeholder for future hero video [REEL_PLUMA_HERO.mp4] */}
+      {/* Animated gradient fallback while video loads / if video fails */}
       <div className="pluma-hero-gradient absolute inset-0" aria-hidden="true" />
-      {/* Future video overlay (40% opacity over video when added) */}
-      <div className="absolute inset-0 bg-pluma-cosmo/40" aria-hidden="true" />
+      {/* Self-hosted hero video — replace src with final .mp4 URL */}
+      <video
+        className="absolute inset-0 h-full w-full object-cover"
+        src="/videos/hero.mp4"
+        poster=""
+        autoPlay
+        muted
+        loop
+        playsInline
+        preload="metadata"
+        aria-hidden="true"
+      />
+      {/* Dark overlay over video for text legibility */}
+      <div className="absolute inset-0 bg-pluma-cosmo/60" aria-hidden="true" />
 
       <div className="relative mx-auto w-full max-w-6xl px-6 py-32 lg:px-10">
         <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-pluma-offwhite md:text-7xl lg:text-8xl">

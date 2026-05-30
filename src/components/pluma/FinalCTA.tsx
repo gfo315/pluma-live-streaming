@@ -8,7 +8,7 @@ export function FinalCTA() {
     >
       <div className="mx-auto max-w-3xl text-center">
         <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-pluma-offwhite md:text-6xl">
-          Vamos entrar ao vivo <span className="italic text-pluma-fluor font-serif">juntos?</span>
+          Vamos entrar ao vivo juntos?
         </h2>
         <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-pluma-offwhite/80">
           Conta pra gente o que você está planejando.<br />Respondemos imediatamente.

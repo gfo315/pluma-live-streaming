@@ -1,5 +1,4 @@
 import backstage1 from "@/assets/backstage-1.jpg";
-import backstage2 from "@/assets/backstage-2.jpg";
 import backstage3 from "@/assets/backstage-3.jpg";
 import backstage4 from "@/assets/backstage-4.jpg";
 
@@ -27,23 +26,15 @@ export function Opening() {
               loading="lazy"
               width={1024}
               height={1280}
-              className="row-span-2 aspect-[4/5] w-full rounded-sm object-cover"
+              className="aspect-[4/5] w-full rounded-sm object-cover"
             />
             <img
               src={backstage3}
               alt="Operação de switcher durante transmissão ao vivo"
               loading="lazy"
               width={1024}
-              height={1024}
-              className="aspect-square w-full rounded-sm object-cover"
-            />
-            <img
-              src={backstage2}
-              alt="Câmera de transmissão capturando palco de evento"
-              loading="lazy"
-              width={1024}
-              height={1024}
-              className="aspect-square w-full rounded-sm object-cover"
+              height={1280}
+              className="aspect-[4/5] w-full rounded-sm object-cover"
             />
             <img
               src={backstage4}

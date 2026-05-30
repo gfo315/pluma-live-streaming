@@ -1,4 +1,4 @@
-import { Camera, Globe, Languages, HardDrive, Lightbulb, ShieldCheck, ShoppingBag, type LucideIcon } from "lucide-react";
+import { Camera, Globe, Languages, HardDrive, ShieldCheck, ShoppingBag, type LucideIcon } from "lucide-react";
 
 type Item = { icon: LucideIcon; title: string; text: string; badge?: string };
 
@@ -7,7 +7,6 @@ const items: Item[] = [
   { icon: Globe, title: "Multi-plataforma", text: "Transmissão simultânea no YouTube, Instagram, LinkedIn e site próprio." },
   { icon: Languages, title: "Multi-idioma", text: "Faixas de áudio paralelas para tradução simultânea ou conteúdo bilíngue." },
   { icon: HardDrive, title: "Gravação master", text: "Você sai do evento com o material em qualidade de edição, pronto pra virar outros conteúdos." },
-  { icon: Lightbulb, title: "Iluminação e som", text: "Setup pensado para o sentido do evento, não no piloto automático." },
   { icon: ShieldCheck, title: "Backup e redundância", text: "Internet, energia e equipamento com plano B montado antes do dia." },
   {
     icon: ShoppingBag,

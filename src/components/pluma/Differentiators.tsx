@@ -26,7 +26,7 @@ export function Differentiators() {
               <h3 className="font-display text-3xl font-medium leading-tight text-pluma-sky md:col-span-5 md:text-4xl">
                 {b.title}
               </h3>
-              <p className="text-base leading-relaxed text-pluma-offwhite/80 md:col-span-7 md:text-lg">
+              <p className="text-base leading-relaxed text-pluma-offwhite/80 md:col-span-7 md:text-lg text-justify">
                 {b.text}
               </p>
             </article>

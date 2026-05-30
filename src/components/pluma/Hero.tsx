@@ -25,8 +25,8 @@ export function Hero() {
 
       <div className="relative mx-auto w-full max-w-6xl px-6 py-32 lg:px-10">
         <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-pluma-offwhite md:text-7xl lg:text-8xl">
-          Live streaming com<br />
-          <span className="font-serif italic text-pluma-fluor">estrutura cinematográfica.</span>
+          Live streaming com estrutura cinematográfica.<br />
+          <span className="italic text-pluma-fluor font-serif">{"\n"}</span>
         </h1>
         <p className="mt-8 max-w-2xl text-lg leading-relaxed text-pluma-offwhite/80 md:text-xl">
           {" "}
@@ -39,7 +39,7 @@ export function Hero() {
             rel="noopener noreferrer"
             className="rounded-lg bg-pluma-sky px-8 py-4 text-base font-medium text-pluma-offwhite transition-all duration-300 hover:bg-pluma-sky/90 hover:shadow-xl hover:shadow-pluma-sky/30"
           >
-            Falar no WhatsApp
+            Conversar no WhatsApp
           </a>
           <a href="#processo" className="pluma-underline text-base text-pluma-offwhite/90 hover:text-pluma-fluor">
             Ver como trabalhamos

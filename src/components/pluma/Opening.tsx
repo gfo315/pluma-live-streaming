@@ -5,7 +5,7 @@ export function Opening() {
         <p className="font-display text-3xl font-medium leading-tight text-pluma-offwhite md:text-5xl">
           Acreditamos que a sua live merece atenção a detalhes.
         </p>
-        <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl text-left">
+        <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">
           Transmitindo ao vivo, não dá pra refazer a tomada e nem corrigir em pós. O público vai assistir a sua produção em tempo real.
         </p>
         <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">

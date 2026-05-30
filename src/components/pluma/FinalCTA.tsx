@@ -11,7 +11,7 @@ export function FinalCTA() {
           Vamos entrar ao vivo <span className="italic text-pluma-fluor font-serif">juntos?</span>
         </h2>
         <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-pluma-offwhite/80">
-          Conta pra gente o que você está planejando.{"\n"}Respondemos imediatamente.
+          Conta pra gente o que você está planejando.<br />Respondemos imediatamente.
         </p>
         <a
           href={WHATSAPP_URL}

@@ -1,7 +1,7 @@
 const blocks = [
   {
-    title: "Antes do evento, sentamos pra destrinchar toda a demanda da live: qual mensagem o seu público precisa receber, quais momentos não podem ser perdidos, quais materiais entram ao vivo, e quais trechos podem virar conteúdo depois. No dia da live, quem está no switcher é a mesma pessoa que pensou a transmissão junto com você, garantindo que o briefing será atendido em totalidade.",
-    text: "",
+    title: "Direção muito além da técnica.",
+    text: "Antes do evento, sentamos pra destrinchar toda a demanda da live: qual mensagem o seu público precisa receber, quais momentos não podem ser perdidos, quais materiais entram ao vivo, e quais trechos podem virar conteúdo depois. No dia da live, quem está no switcher é a mesma pessoa que pensou a transmissão junto com você, garantindo que o briefing será atendido em totalidade.",
   },
   {
     title: "Orçamento sob medida, sem exageros.",

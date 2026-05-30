@@ -1,8 +1,8 @@
 const items = [
-  { title: "Eventos corporativos", text: "Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa, não que entrega ela." },
+  { title: "Eventos corporativos", text: "Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa." },
   { title: "Eventos culturais", text: "Shows, festivais, ativações em espaços culturais. Captação que vira material de arquivo, não só transmissão descartável." },
   { title: "Conteúdo institucional ao vivo", text: "Webinars, talks, lives recorrentes. Identidade visual consistente entre uma transmissão e outra." },
-  { title: "Lançamentos de marca", text: "O momento em que a marca aparece pro mundo. Direção pensada pra esse peso." },
+  { title: "Lançamentos de marca", text: "De mercado imobiliário ao mercado de moda ou acessórios, estamos preparados para o momento em que a sua marca se apresenta pro mundo. " },
 ];
 
 export function ForWhom() {

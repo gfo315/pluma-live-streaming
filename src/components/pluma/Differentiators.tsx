@@ -1,15 +1,15 @@
 const blocks = [
   {
-    title: "Direção, não operação.",
-    text: "Quem dirige a sua live também conversou com você. Antes do evento, sentamos pra entender o que precisa acontecer. Que mensagem o seu público precisa receber. Que momentos não podem ser perdidos. Que material pode virar conteúdo depois. No dia, quem está no switcher é a mesma pessoa que pensou a transmissão com você. Não é alguém que recebeu um briefing por WhatsApp duas horas antes.",
+    title: "Antes do evento, sentamos pra destrinchar toda a demanda da live: qual mensagem o seu público precisa receber, quais momentos não podem ser perdidos, quais materiais entram ao vivo, e quais trechos podem virar conteúdo depois. No dia da live, quem está no switcher é a mesma pessoa que pensou a transmissão junto com você, garantindo que o briefing será atendido em totalidade.",
+    text: "",
   },
   {
-    title: "Critério em vez de catálogo.",
-    text: "A gente sugere o que faz sentido. E o que não faz. Nem todo evento precisa de seis câmeras. Nem todo evento precisa de tradução simultânea. Nem todo evento precisa do orçamento mais caro. Quando você nos procura, a gente escuta a demanda e responde com o que realmente agrega. Se algo da sua proposta original não vale o investimento, a gente fala. Se algo que você não pediu pode mudar o resultado, a gente sugere.",
+    title: "Orçamento sob medida, sem exageros.",
+    text: "A gente sugere o que faz sentido - e o que não faz. Nem todo evento precisa de seis câmeras, nem de tradução simultânea. Nem todo evento precisa do orçamento mais caro.\nQuando você nos procura, a gente escuta a demanda e responde com o que realmente agrega. Se algo da sua proposta original não vale o investimento, a gente fala. Se algo que você não pediu pode mudar o resultado, a gente sugere.",
   },
   {
-    title: "Estética como parte do trabalho.",
-    text: "Direção de imagem, não só captação. Composição de plano, escolha de lente, temperatura de cor, ritmo de corte. As decisões que um diretor de fotografia toma num filme, a gente toma ao vivo, em tempo real. A diferença aparece em coisas que parecem pequenas: o enquadramento que sustenta a fala do palestrante sem cansar, o corte que respeita o tempo do silêncio, a luz que faz o produto parecer o que ele é. No fim, é o que separa uma live que prende quem está assistindo de uma que vira ruído de fundo.",
+    title: "Compromisso com a estética.",
+    text: "Trabalhamos com direção de imagem, não só captação. Pensamos na composição de plano, escolha de lente, temperatura de cor, ritmo de corte. A diferença aparece no conjunto, a partir de decisões que parecem pequenas: o enquadramento que sustenta a fala do palestrante sem cansar, o corte que respeita o tempo do silêncio, a luz que melhor valoriza o produto. No fim, é o que separa uma live que prende quem está assistindo de uma que vira ruído de fundo.",
   },
 ];
 

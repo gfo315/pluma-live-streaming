@@ -59,7 +59,7 @@ const groups: { title: string; items: FAQItem[] }[] = [
     items: [
       {
         q: "Qual o ticket médio?",
-        a: "Varia conforme o escopo. Lives mais simples começam em uma faixa, eventos com várias câmeras e estrutura completa em outra. A melhor forma de saber é contar o evento pelo WhatsApp.",
+        a: "Varia conforme o escopo. Para agilizar o orçamento, nos informe o local, duração e tipo de evento, bem como tudo o que deverá ser transmitido, e em quantas plataformas. Também conversaremos sobre disponibilidade de infraestrutura e quantidade de entregas pós-live. Caso você já tenha um valor em mente, também pode nos informar para alinhar expectativas e propor uma estrutura proporcional.",
       },
       {
         q: "O que está incluído no orçamento?",

@@ -3,6 +3,7 @@ import { Hero } from "@/components/pluma/Hero";
 import { Opening } from "@/components/pluma/Opening";
 import { Capabilities } from "@/components/pluma/Capabilities";
 import { Differentiators } from "@/components/pluma/Differentiators";
+import { BackstageGallery } from "@/components/pluma/BackstageGallery";
 import { ForWhom } from "@/components/pluma/ForWhom";
 import { Process } from "@/components/pluma/Process";
 import { About } from "@/components/pluma/About";
@@ -20,6 +21,7 @@ export function App() {
         <Opening />
         <Capabilities />
         <Differentiators />
+        <BackstageGallery />
         <ForWhom />
         <Process />
         <About />

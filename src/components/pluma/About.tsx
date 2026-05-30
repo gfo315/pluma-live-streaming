@@ -17,10 +17,10 @@ export function About() {
             Quem dirige
           </h2>
           <p className="mt-8 text-lg leading-relaxed text-pluma-offwhite/80">
-            A direção de transmissão da Pluma é assinada por Guido. Diretor audiovisual com formação cinematográfica e entre 5 e 10 anos dirigindo transmissões ao vivo no Rio de Janeiro e São Paulo. Especializado em decisões técnicas de imagem e áudio que mudam o resultado final, sem precisar de equipe inflada.
+            A direção de transmissão da Pluma é assinada por Guido. Diretor audiovisual com formação em cinema e 10 anos de projetos entregues.{"\n"}É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.
           </p>
           <p className="mt-5 text-lg leading-relaxed text-pluma-offwhite/80">
-            A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa. <span className="font-serif italic text-pluma-fluor">Quem te atende é quem dirige. Quem dirige é quem pensa o evento com você.</span>
+            A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa.
           </p>
         </div>
       </div>

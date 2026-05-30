@@ -8,10 +8,10 @@ export function FinalCTA() {
     >
       <div className="mx-auto max-w-3xl text-center">
         <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-pluma-offwhite md:text-6xl">
-          Tem um evento ao vivo <span className="font-serif italic text-pluma-fluor">pra acontecer?</span>
+          Vamos entrar ao vivo <span className="italic text-pluma-fluor font-serif">juntos?</span>
         </h2>
         <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-pluma-offwhite/80">
-          Conta pra gente o que você está planejando. Respondemos em até algumas horas em dia útil, com perguntas pra entender o evento antes de qualquer orçamento.
+          Conta pra gente o que você está planejando.<br />Respondemos imediatamente.
         </p>
         <a
           href={WHATSAPP_URL}
@@ -19,7 +19,7 @@ export function FinalCTA() {
           rel="noopener noreferrer"
           className="mt-12 inline-block rounded-lg bg-pluma-sky px-10 py-5 text-lg font-medium text-pluma-offwhite transition-all duration-300 hover:bg-pluma-sky/90 hover:shadow-2xl hover:shadow-pluma-sky/30"
         >
-          Falar no WhatsApp
+          Conversar no WhatsApp
         </a>
       </div>
     </section>

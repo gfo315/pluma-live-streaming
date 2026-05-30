@@ -6,7 +6,7 @@ export function WhatsAppFloat() {
       href={WHATSAPP_URL}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Falar no WhatsApp"
+      aria-label="Conversar no WhatsApp"
       className="pluma-pulse fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-pluma-deep border border-pluma-fluor/30 transition-all duration-300 hover:scale-110 hover:bg-pluma-sky md:bottom-8 md:right-8"
     >
       <svg viewBox="0 0 24 24" className="h-7 w-7 fill-pluma-fluor" aria-hidden="true">

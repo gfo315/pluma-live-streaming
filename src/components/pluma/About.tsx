@@ -1,4 +1,4 @@
-import guidoPhoto from "@/assets/guido.jpg";
+import guidoPhoto from "@/assets/guido.webp";
 
 export function About() {
   return (

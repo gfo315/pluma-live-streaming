@@ -21,7 +21,6 @@ export function App() {
         <Opening />
         <Capabilities />
         <Differentiators />
-        <BackstageGallery />
         <ForWhom />
         <Process />
         <About />

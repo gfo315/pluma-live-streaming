@@ -1,6 +1,6 @@
-import backstage1 from "@/assets/backstage-1.jpg";
-import backstage3 from "@/assets/backstage-3.jpg";
-import backstage4 from "@/assets/backstage-4.jpg";
+import backstage1 from "@/assets/backstage-1.webp";
+import backstage2 from "@/assets/backstage-2.webp";
+import backstage3 from "@/assets/backstage-3.webp";
 
 export function Opening() {
   return (
@@ -29,7 +29,7 @@ export function Opening() {
               className="aspect-[4/5] w-full rounded-sm object-cover"
             />
             <img
-              src={backstage3}
+              src={backstage2}
               alt="Operação de switcher durante transmissão ao vivo"
               loading="lazy"
               width={1024}
@@ -37,7 +37,7 @@ export function Opening() {
               className="aspect-[4/5] w-full rounded-sm object-cover"
             />
             <img
-              src={backstage4}
+              src={backstage3}
               alt="Sala de controle com mosaico de câmeras"
               loading="lazy"
               width={1280}

@@ -80,7 +80,7 @@ const groups: { title: string; items: FAQItem[] }[] = [
 export function FAQ() {
   const [open, setOpen] = useState<string | null>("0-0");
   return (
-    <section className="bg-pluma-cosmo px-6 py-24 md:py-32">
+    <section id="faq" className="bg-pluma-cosmo px-6 py-24 md:py-32">
       <div className="mx-auto max-w-4xl">
         <h2 className="font-display text-4xl font-bold tracking-tight text-pluma-offwhite md:text-5xl">
           Perguntas frequentes

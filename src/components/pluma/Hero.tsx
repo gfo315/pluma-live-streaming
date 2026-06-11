@@ -12,7 +12,7 @@ export function Hero() {
       <video
         className="absolute inset-0 h-full w-full object-cover"
         src="/videos/hero.mp4"
-        poster=""
+        poster="/videos/hero-poster.webp"
         autoPlay
         muted
         loop

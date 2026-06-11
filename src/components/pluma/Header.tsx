@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { WHATSAPP_URL } from "@/lib/whatsapp";
+import plumaLogotype from "@/assets/pluma-logotype.svg";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -22,14 +23,14 @@ export function Header() {
         aria-label="Navegação principal"
         className="mx-auto flex h-full max-w-7xl items-center justify-between px-6 lg:px-10"
       >
-        <a href="#top" className="font-display text-2xl font-bold lowercase tracking-tight text-pluma-offwhite">
-          pluma<sup className="text-sm font-medium">®</sup>
+        <a href="#top" aria-label="Pluma — página inicial" className="flex items-center">
+          <img src={plumaLogotype} alt="Pluma" className="h-7 w-auto md:h-8" />
         </a>
         <div className="flex items-center gap-6 md:gap-10">
           <ul className="hidden items-center gap-8 text-sm text-pluma-offwhite/80 md:flex">
             <li><a href="#fazemos" className="pluma-underline transition-colors hover:text-pluma-fluor">O que fazemos</a></li>
             <li><a href="#processo" className="pluma-underline transition-colors hover:text-pluma-fluor">Como funciona</a></li>
-            <li><a href="#contato" className="pluma-underline transition-colors hover:text-pluma-fluor">Contato</a></li>
+            <li><a href="#faq" className="pluma-underline transition-colors hover:text-pluma-fluor">Perguntas Frequentes</a></li>
           </ul>
           <a
             href={WHATSAPP_URL}

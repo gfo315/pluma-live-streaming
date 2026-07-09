@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Plus, Minus } from "lucide-react";
 
-type FAQItem = { q: string; a: string; note?: string };
+type FAQItem = { q: string; a: string };
 
 const groups: { title: string; items: FAQItem[] }[] = [
   {
@@ -14,7 +14,6 @@ const groups: { title: string; items: FAQItem[] }[] = [
       {
         q: "Quanto tempo de antecedência precisam pra fechar um evento?",
         a: "O ideal é de duas a quatro semanas, principalmente pra eventos que envolvem mais de duas câmeras ou tradução. Eventos de última hora a gente analisa caso a caso.",
-        note: "O ideal é contratar o serviço com pelo menos 15 dias de antecedência, para que possamos planejar todos os detalhes da operação. No entanto, também atendemos demandas com prazos reduzidos — em alguns casos, até 48 horas antes do evento — sempre sujeitos à disponibilidade da equipe e da estrutura necessária.",
       },
       {
         q: "Fazem cobertura de múltiplos dias?",
@@ -101,19 +100,12 @@ export function FAQ() {
                     <div key={f.q}>
                       <button
                         onClick={() => setOpen(isOpen ? null : id)}
-                        className="flex w-full items-start justify-between gap-6 py-6 text-left transition-colors duration-300 hover:text-pluma-fluor"
+                        className="flex w-full items-center justify-between gap-6 py-6 text-left transition-colors duration-300 hover:text-pluma-fluor"
                         aria-expanded={isOpen}
                       >
-                        <div className="flex flex-col gap-2">
-                          <h4 className="font-display text-lg font-medium text-pluma-offwhite md:text-xl">
-                            {f.q}
-                          </h4>
-                          {f.note && (
-                            <p className="text-sm leading-relaxed text-pluma-offwhite/60">
-                              {f.note}
-                            </p>
-                          )}
-                        </div>
+                        <h4 className="font-display text-lg font-medium text-pluma-offwhite md:text-xl">
+                          {f.q}
+                        </h4>
                         {isOpen ? (
                           <Minus className="h-5 w-5 shrink-0 text-pluma-fluor" strokeWidth={1.5} />
                         ) : (

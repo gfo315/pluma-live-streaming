@@ -1,15 +1,15 @@
 const blocks = [
   {
     title: "Direção muito além da técnica.",
-    text: "Antes do evento, sentamos pra destrinchar toda a demanda da live: qual mensagem o seu público precisa receber, quais momentos não podem ser perdidos, quais materiais entram ao vivo, e quais trechos podem virar conteúdo depois. No dia da live, quem está no switcher é a mesma pessoa que pensou a transmissão junto com você, garantindo que o briefing será atendido em totalidade.",
+    text: "Toda grande transmissão começa com uma direção bem definida. Antes do evento, mergulhamos no briefing para compreender seus objetivos, identificar os momentos mais importantes e planejar cada entrada, conteúdo e interação com o público.\n\nNo dia da transmissão, a direção é conduzida pela mesma equipe que participou desse planejamento. Essa continuidade garante decisões precisas em tempo real e a fidelidade ao conceito definido desde o início, transformando o briefing em uma experiência ao vivo executada com excelência.",
   },
   {
     title: "Orçamento sob medida, sem exageros.",
-    text: "A gente sugere o que faz sentido - e o que não faz. Nem todo evento precisa de seis câmeras, nem de tradução simultânea. Nem todo evento precisa do orçamento mais caro.\nQuando você nos procura, a gente escuta a demanda e responde com o que realmente agrega. Se algo da sua proposta original não vale o investimento, a gente fala. Se algo que você não pediu pode mudar o resultado, a gente sugere.",
+    text: "Cada evento exige soluções sob medida. Por isso, nossa recomendação nunca parte de um pacote padrão, mas dos objetivos, do formato e da experiência que se deseja proporcionar ao público.\n\nPropomos apenas o que realmente agrega valor ao projeto. Quando uma solução não se justifica, somos transparentes. Quando uma oportunidade pode elevar o resultado, fazemos a recomendação. Assim, cada decisão é orientada pela eficiência, pela estratégia e pelo melhor retorno para o seu investimento.",
   },
   {
     title: "Compromisso com a estética.",
-    text: "Trabalhamos com direção de imagem, não só captação. Pensamos na composição de plano, escolha de lente, temperatura de cor, ritmo de corte. A diferença aparece no conjunto, a partir de decisões que parecem pequenas: o enquadramento que sustenta a fala do palestrante sem cansar, o corte que respeita o tempo do silêncio, a luz que melhor valoriza o produto. No fim, é o que separa uma live que prende quem está assistindo de uma que vira ruído de fundo.",
+    text: "Mais do que captar imagens, dirigimos a narrativa visual do seu evento. Cada enquadramento, movimento de câmera, escolha de lente, iluminação e ritmo de edição é pensado para valorizar a mensagem e manter o público envolvido.\n\nSão essas decisões, muitas vezes imperceptíveis, que transformam uma transmissão comum em uma experiência sofisticada, capaz de refletir a qualidade da sua marca e prender a atenção do início ao fim.",
   },
 ];
 

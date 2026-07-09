@@ -8,13 +8,16 @@ export function Opening() {
       <div className="mx-auto grid max-w-6xl gap-12 md:grid-cols-12 md:gap-16 lg:gap-20">
         <div className="md:col-span-6 md:sticky md:top-24 md:self-start">
           <p className="font-display text-3xl font-medium leading-tight text-pluma-offwhite md:text-4xl lg:text-5xl">
-            Acreditamos que a sua live merece atenção a detalhes.
+            A sua live merece atenção aos detalhes.
           </p>
           <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">
-            Transmitindo ao vivo, não dá pra refazer a tomada e nem corrigir em pós. O público vai assistir a sua produção em tempo real.
+            Uma transmissão de excelência começa no planejamento. Antes do evento, analisamos cada detalhe e desenvolvemos uma decupagem técnica que integra direção, captação de imagens, áudio e streaming, antecipando variáveis para garantir uma operação segura e eficiente.
           </p>
           <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">
-            Por isso, a gente considera todos os detalhes e variáveis da sua demanda. Transmitimos com intenção e com direção. Com uma decupagem de tempos e movimentos pensada com antecedência, para controlar todas as possíveis variáveis.
+            Mais do que transmitir, dirigimos a experiência. O resultado é uma transmissão fluida, profissional e capaz de representar a qualidade da sua marca do início ao fim.
+          </p>
+          <p className="mt-6 text-lg leading-relaxed text-pluma-offwhite/70 md:text-xl">
+            Transmitindo ao vivo, não dá pra refazer a cena e nem corrigir em pós. O público vai assistir à sua produção em tempo real.
           </p>
         </div>
 

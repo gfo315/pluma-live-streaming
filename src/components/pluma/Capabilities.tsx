@@ -7,7 +7,7 @@ const items: Item[] = [
   { icon: Globe, title: "Multi-plataforma", text: "Transmissão simultânea no YouTube, Instagram, LinkedIn e site próprio." },
   { icon: Languages, title: "Multi-idioma", text: "Faixas de áudio paralelas para tradução simultânea ou conteúdo bilíngue." },
   { icon: HardDrive, title: "Gravação master", text: "Você sai do evento com o material em qualidade de edição, pronto pra virar outros conteúdos." },
-  { icon: ShieldCheck, title: "Backup e redundância", text: "Internet, energia e equipamento com plano B montado antes do dia." },
+  { icon: ShieldCheck, title: "Backup e redundância", text: "Trabalhamos com redundância de internet, energia e equipamentos, além de um plano de contingência definido antes do evento para garantir máxima segurança à transmissão." },
   {
     icon: ShoppingBag,
     title: "Vendas de E-Commerce via Chat",

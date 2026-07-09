@@ -30,7 +30,7 @@ const groups: { title: string; items: FAQItem[] }[] = [
     items: [
       {
         q: "Vocês fornecem internet?",
-        a: "Sim. Para eventos críticos, levamos internet redundante (link principal mais backup) pra garantir que a transmissão não cai.",
+        a: "Sim. Para eventos críticos, utilizamos redundância de internet, com link principal e backup, garantindo máxima estabilidade e continuidade da transmissão, mesmo diante de imprevistos.",
       },
       {
         q: "O cliente recebe a gravação depois?",

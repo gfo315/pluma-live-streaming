@@ -17,7 +17,7 @@ export function About() {
             Quem dirige
           </h2>
           <p className="mt-8 text-lg leading-relaxed text-pluma-offwhite/80">
-            A direção de transmissão da Pluma é assinada por Guido. Diretor audiovisual com formação em cinema e 10 anos de projetos entregues.{"\n"}É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.
+            A direção de transmissão da Pluma é assinada por Guido Ferreira.{"\n"}Diretor audiovisual com formação em cinema e 10 anos de projetos entregues. É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.
           </p>
           <p className="mt-5 text-lg leading-relaxed text-pluma-offwhite/80">
             A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa.

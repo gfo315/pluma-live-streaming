@@ -25,7 +25,7 @@ export function Hero() {
 
       <div className="relative mx-auto w-full max-w-6xl px-6 py-32 lg:px-10">
         <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-pluma-offwhite md:text-7xl lg:text-8xl">
-          Live streaming com estrutura cinematográfica.<br />
+          Live streaming com estrutura cinematográfica<br />
           <span className="italic text-pluma-fluor font-serif">{"\n"}</span>
         </h1>
         <p className="mt-8 max-w-2xl text-lg leading-relaxed text-pluma-offwhite/80 md:text-xl">

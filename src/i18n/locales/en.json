@@ -1,234 +1,238 @@
 {
   "meta": {
     "htmlLang": "en",
-    "title": "TO_TRANSLATE: Pluma | Live Streaming com Direção Cinematográfica — Rio de Janeiro e São Paulo",
-    "description": "TO_TRANSLATE: Live streaming com olhar de cinema. A Pluma transmite seu evento ao vivo com direção, decupagem e cuidado estético. Atendimento boutique no Rio de Janeiro e São Paulo."
+    "title": "Pluma | Your Live Production Partner in Brazil — English-Speaking, Cinematic Direction",
+    "description": "Your in-country partner for live streaming productions in Brazil. English-speaking direction, cinematic craft, and boutique attention. Based in Rio de Janeiro, serving international agencies, production companies, and brand teams."
   },
   "whatsapp": {
-    "message": "TO_TRANSLATE: Olá! Vim do site da Pluma. Quero conversar sobre um live streaming.",
-    "ariaFloat": "TO_TRANSLATE: Conversar no WhatsApp"
+    "message": "Hi! I found Pluma through your website. I'd like to talk about a live production in Brazil.",
+    "ariaFloat": "Message us on WhatsApp"
   },
   "header": {
-    "logoAlt": "TO_TRANSLATE: Pluma — página inicial",
+    "logoAlt": "Pluma — home",
     "nav": {
-      "capabilities": "TO_TRANSLATE: O que fazemos",
-      "process": "TO_TRANSLATE: Como funciona",
-      "faq": "TO_TRANSLATE: Perguntas Frequentes"
+      "capabilities": "What we do",
+      "process": "How it works",
+      "faq": "FAQ"
     },
-    "cta": "TO_TRANSLATE: WhatsApp",
-    "langSwitchAria": "TO_TRANSLATE: Trocar idioma"
+    "cta": "WhatsApp",
+    "langSwitchAria": "Switch language"
   },
   "hero": {
-    "title": "TO_TRANSLATE: Live streaming com estrutura cinematográfica",
+    "title": "Your live production partner in Brazil.",
     "subtitle": "",
-    "ctaPrimary": "TO_TRANSLATE: Conversar no WhatsApp",
-    "ctaSecondary": "TO_TRANSLATE: Ver como trabalhamos"
+    "ctaPrimary": "Message us on WhatsApp",
+    "ctaSecondary": "See our process"
   },
   "opening": {
-    "headline": "TO_TRANSLATE: A sua live merece atenção aos detalhes.",
+    "headline": "Producing in Brazil, without the friction.",
     "paragraphs": [
-      "TO_TRANSLATE: Uma transmissão de excelência começa no planejamento. Antes do evento, analisamos cada detalhe e desenvolvemos uma decupagem técnica que integra direção, captação de imagens, áudio e streaming, antecipando variáveis para garantir uma operação segura e eficiente.",
-      "TO_TRANSLATE: Mais do que transmitir, dirigimos a experiência. O resultado é uma transmissão fluida, profissional e capaz de representar a qualidade da sua marca do início ao fim.",
-      "TO_TRANSLATE: Transmitindo ao vivo, não dá pra refazer a cena e nem corrigir em pós. O público vai assistir à sua produção em tempo real."
+      "A great live broadcast starts long before broadcast day. We work directly with your team from the initial brief, aligning creative direction, technical planning, and on-the-ground logistics. Everything runs in English, everything happens on the ground in Brazil.",
+      "More than streaming, we direct the experience. From the first call to the final master file, you have one point of contact who knows your production inside out. No language friction. No translation losses. No handoffs to strangers on event day.",
+      "Live is unforgiving. You can't reshoot. You can't fix it in post. That's why we treat your broadcast the way a director treats a film — with planning, taste, and technical rigor."
     ],
     "images": {
-      "one": "TO_TRANSLATE: Direção de live streaming no switcher com múltiplas câmeras",
-      "two": "TO_TRANSLATE: Operação de switcher durante transmissão ao vivo",
-      "three": "TO_TRANSLATE: Sala de controle com mosaico de câmeras"
+      "one": "Live streaming direction at the switcher with multiple cameras",
+      "two": "Switcher operation during a live broadcast",
+      "three": "Control room with multi-camera mosaic"
     }
   },
   "capabilities": {
-    "title": "TO_TRANSLATE: O que entregamos",
-    "badgeNew": "TO_TRANSLATE: NOVO",
+    "title": "What we deliver",
+    "badgeNew": "NEW",
     "items": [
       {
-        "key": "TO_TRANSLATE: multicam",
-        "title": "TO_TRANSLATE: Multicâmera",
-        "text": "TO_TRANSLATE: Switching ao vivo com várias câmeras em direção integrada."
+        "key": "multicam",
+        "title": "Multi-camera",
+        "text": "Live switching across multiple cameras with integrated direction."
       },
       {
-        "key": "TO_TRANSLATE: multiplatform",
-        "title": "TO_TRANSLATE: Multi-plataforma",
-        "text": "TO_TRANSLATE: Transmissão simultânea no YouTube, Instagram, LinkedIn e site próprio."
+        "key": "multiplatform",
+        "title": "Multi-platform",
+        "text": "Simultaneous streaming to YouTube, Instagram, LinkedIn, and your own website."
       },
       {
-        "key": "TO_TRANSLATE: multilang",
-        "title": "TO_TRANSLATE: Multi-idioma",
-        "text": "TO_TRANSLATE: Faixas de áudio paralelas para tradução simultânea ou conteúdo bilíngue."
+        "key": "multilang",
+        "title": "Multi-language",
+        "text": "Parallel audio tracks for simultaneous translation or bilingual content — essential for international audiences."
       },
       {
-        "key": "TO_TRANSLATE: master",
-        "title": "TO_TRANSLATE: Gravação master",
-        "text": "TO_TRANSLATE: Você sai do evento com o material em qualidade de edição, pronto pra virar outros conteúdos."
+        "key": "master",
+        "title": "Master recording",
+        "text": "Walk away from the event with edit-quality footage, ready to become teasers, cutdowns, or standalone content."
       },
       {
-        "key": "TO_TRANSLATE: backup",
-        "title": "TO_TRANSLATE: Backup e redundância",
-        "text": "TO_TRANSLATE: Trabalhamos com redundância de internet, energia e equipamentos, além de um plano de contingência definido antes do evento para garantir máxima segurança à transmissão."
+        "key": "backup",
+        "title": "Backup and redundancy",
+        "text": "Redundant internet, power, and equipment. Contingency plan defined before the event to guarantee maximum broadcast stability."
       },
       {
-        "key": "TO_TRANSLATE: ecommerce",
-        "title": "TO_TRANSLATE: Vendas de E-Commerce via Chat",
-        "text": "TO_TRANSLATE: Configuração de sistema automatizado integrado com seu e-commerce para checkout a partir do chat do Instagram ou TikTok.",
+        "key": "ecommerce",
+        "title": "In-chat e-commerce sales",
+        "text": "Automated system integrated with your e-commerce for checkout directly from Instagram or TikTok chat.",
         "badge": true
       }
     ]
   },
   "differentiators": {
-    "title": "TO_TRANSLATE: O que nos diferencia",
+    "title": "What sets us apart",
     "blocks": [
       {
-        "title": "TO_TRANSLATE: Direção muito além da técnica.",
-        "text": "TO_TRANSLATE: Toda grande transmissão começa com uma direção bem definida. Antes do evento, mergulhamos no briefing para compreender seus objetivos, identificar os momentos mais importantes e planejar cada entrada, conteúdo e interação com o público.\n\nNo dia da transmissão, a direção é conduzida pela mesma equipe que participou desse planejamento. Essa continuidade garante decisões precisas em tempo real e a fidelidade ao conceito definido desde o início, transformando o briefing em uma experiência ao vivo executada com excelência."
+        "title": "Direction that goes beyond the technical.",
+        "text": "Every great broadcast starts with clear direction. Before the event, we dive into the brief to understand your goals, identify the moments that matter most, and plan every entrance, transition, and audience touchpoint.\n\nOn event day, the direction is led by the same team that built the plan with you. That continuity means precise decisions in real time, and fidelity to the concept defined from the start — turning a brief into a live experience executed with craft."
       },
       {
-        "title": "TO_TRANSLATE: Orçamento sob medida, sem exageros.",
-        "text": "TO_TRANSLATE: Cada evento exige soluções sob medida. Por isso, nossa recomendação nunca parte de um pacote padrão, mas dos objetivos, do formato e da experiência que se deseja proporcionar ao público.\n\nPropomos apenas o que realmente agrega valor ao projeto. Quando uma solução não se justifica, somos transparentes. Quando uma oportunidade pode elevar o resultado, fazemos a recomendação. Assim, cada decisão é orientada pela eficiência, pela estratégia e pelo melhor retorno para o seu investimento."
+        "title": "Right-sized budgets. No inflated invoices.",
+        "text": "Every event needs its own solution. Our recommendations don't start from a standard package — they start from your objectives, your format, and the experience you want to create.\n\nWe propose only what genuinely adds value. When something isn't justified, we say so. When something you didn't ask for could raise the bar, we recommend it. Every decision is driven by efficiency, strategy, and the best return on your investment."
       },
       {
-        "title": "TO_TRANSLATE: Compromisso com a estética.",
-        "text": "TO_TRANSLATE: Mais do que captar imagens, dirigimos a narrativa visual do seu evento. Cada enquadramento, movimento de câmera, escolha de lente, iluminação e ritmo de edição é pensado para valorizar a mensagem e manter o público envolvido.\n\nSão essas decisões, muitas vezes imperceptíveis, que transformam uma transmissão comum em uma experiência sofisticada, capaz de refletir a qualidade da sua marca e prender a atenção do início ao fim."
+        "title": "A commitment to craft.",
+        "text": "More than capturing images, we direct the visual narrative of your event. Every frame, camera move, lens choice, lighting setup, and cut is designed to serve the message and hold the audience.\n\nThese are the decisions — often invisible — that turn a standard broadcast into a sophisticated experience. One that reflects your brand's quality and holds attention from start to finish."
       }
     ]
   },
   "forWhom": {
-    "title": "TO_TRANSLATE: Para quem é",
+    "title": "Who it's for",
     "items": [
       {
-        "title": "TO_TRANSLATE: Eventos corporativos",
-        "text": "TO_TRANSLATE: Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa."
+        "title": "Corporate events",
+        "text": "Product launches, conventions, internal talks. We deliver a broadcast that supports your company's image."
       },
       {
-        "title": "TO_TRANSLATE: Eventos culturais",
-        "text": "TO_TRANSLATE: Shows, festivais, ativações em espaços culturais. Captação que vira material de arquivo, não só transmissão descartável."
+        "title": "Cultural events",
+        "text": "Concerts, festivals, activations in cultural venues. Capture that becomes archive material, not disposable transmission."
       },
       {
-        "title": "TO_TRANSLATE: Conteúdo institucional ao vivo",
-        "text": "TO_TRANSLATE: Webinars, talks, lives recorrentes. Identidade visual consistente entre uma transmissão e outra."
+        "title": "Live institutional content",
+        "text": "Webinars, talks, recurring lives. Visual consistency across every broadcast."
       },
       {
-        "title": "TO_TRANSLATE: Lançamentos de marca",
-        "text": "TO_TRANSLATE: De mercado imobiliário ao mercado de moda ou acessórios, estamos preparados para o momento em que a sua marca se apresenta pro mundo. "
+        "title": "Brand launches",
+        "text": "From real estate to fashion, luxury accessories to consumer tech — we're ready for the moment your brand shows up to the world."
       }
     ]
   },
   "process": {
-    "title": "TO_TRANSLATE: Como funciona",
+    "title": "How it works",
     "steps": [
       {
-        "n": "TO_TRANSLATE: 01",
-        "title": "TO_TRANSLATE: Conversa inicial",
-        "text": "TO_TRANSLATE: Você manda mensagem no WhatsApp contando o evento. A gente responde com perguntas, não com orçamento de tabela."
+        "n": "01",
+        "title": "Initial conversation",
+        "text": "Send us a WhatsApp message with the details of your event. We reply with questions, not a template quote."
       },
       {
-        "n": "TO_TRANSLATE: 02",
-        "title": "TO_TRANSLATE: Proposta sob medida",
-        "text": "TO_TRANSLATE: Depois de entender o evento, montamos uma proposta com o que faz sentido. Sem encher de item pra inflar valor."
+        "n": "02",
+        "title": "Tailored proposal",
+        "text": "Once we understand the event, we build a proposal with what actually makes sense. No filler items to inflate the price."
       },
       {
-        "n": "TO_TRANSLATE: 03",
-        "title": "TO_TRANSLATE: Planejamento técnico e criativo",
-        "text": "TO_TRANSLATE: Antes do dia, alinhamos câmeras, plataformas, decupagem, e plano de contingência. Você sabe o que vai acontecer antes de acontecer."
+        "n": "03",
+        "title": "Technical and creative planning",
+        "text": "Before the day, we align cameras, platforms, coverage, and contingency plans. You know what will happen before it happens."
       },
       {
-        "n": "TO_TRANSLATE: 04",
-        "title": "TO_TRANSLATE: Transmissão e entrega",
-        "text": "TO_TRANSLATE: Dirigimos a live ao vivo. No fim, você recebe os arquivos de gravação pra usar como quiser."
+        "n": "04",
+        "title": "Broadcast and delivery",
+        "text": "We direct the live. Afterwards, you receive the master recording files to use however you want."
       }
     ]
   },
   "about": {
-    "title": "TO_TRANSLATE: Quem dirige",
-    "photoAlt": "TO_TRANSLATE: Guido, diretor de transmissão da Pluma",
-    "bio": "TO_TRANSLATE: A direção de transmissão da Pluma é assinada por Guido Ferreira.\nDiretor audiovisual com formação em cinema e 10 anos de projetos entregues. É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.",
-    "closer": "TO_TRANSLATE: A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa."
+    "title": "Meet the director",
+    "photoAlt": "Guido Ferreira, live production director at Pluma",
+    "bio": "Pluma's live production direction is led by Guido Ferreira.\nAudiovisual director with cinematic training and 10 years of delivered projects. Fluent in English and Portuguese, Guido is your single point of contact from the first message to the final delivery — making the creative and technical decisions in image and sound with the individual attention you'd expect from a boutique studio, and speaking your language every step of the way.",
+    "closer": "Pluma combines that authorial direction with the structure of a full production company on the ground in Brazil."
   },
   "faq": {
-    "title": "TO_TRANSLATE: Perguntas frequentes",
+    "title": "Frequently asked questions",
     "groups": [
       {
-        "title": "TO_TRANSLATE: Logística e processo",
+        "title": "Logistics and process",
         "items": [
           {
-            "q": "TO_TRANSLATE: Atendem fora do Rio de Janeiro?",
-            "a": "TO_TRANSLATE: Sim. Operamos no Rio de Janeiro e em São Paulo. Para eventos em outras capitais, o orçamento inclui deslocamento da direção e equipe técnica."
+            "q": "Do you work with international clients?",
+            "a": "Yes — international agencies, production companies, and brand teams are a core part of what we do. We serve as your in-country partner in Brazil: you brief us in English, we handle direction, coordination, and delivery on the ground. Everything runs in your language, everything happens on ours."
           },
           {
-            "q": "TO_TRANSLATE: Quanto tempo de antecedência precisam pra fechar um evento?",
-            "a": "TO_TRANSLATE: O ideal é de duas a quatro semanas, principalmente pra eventos que envolvem mais de duas câmeras ou tradução. Eventos de última hora a gente analisa caso a caso."
+            "q": "Where in Brazil do you operate?",
+            "a": "Our base is in Rio de Janeiro. We operate directly in Rio, São Paulo, and travel to other Brazilian capitals for larger productions. For events outside Brazil, we can travel or coordinate with trusted partners in your region."
           },
           {
-            "q": "TO_TRANSLATE: Fazem cobertura de múltiplos dias?",
-            "a": "TO_TRANSLATE: Sim. Convenções, festivais e eventos com programação contínua são parte do que fazemos."
+            "q": "How much lead time do you need to book an event?",
+            "a": "Ideally two to four weeks, especially for events with multiple cameras or simultaneous translation. For international productions with more complex logistics — permits, imported equipment, tighter schedules — we recommend starting the conversation four to eight weeks out. Last-minute events are evaluated case by case."
           },
           {
-            "q": "TO_TRANSLATE: Vocês fazem só transmissão ou também produzem o evento presencial?",
-            "a": "TO_TRANSLATE: A Pluma é produtora audiovisual focada em transmissão e captação, e trazemos parceiros de confiança para produzir o evento físico: cenografia, catering, hospitalidade, RSVP, etc."
+            "q": "Do you handle only the broadcast, or the full physical event too?",
+            "a": "Pluma is an audiovisual production company focused on live broadcast and capture. We work with trusted partners for the physical event side: staging, catering, hospitality, RSVP. For international clients producing in Brazil, we can coordinate the full local team on your behalf — one point of contact, one invoice, no chasing multiple vendors."
+          },
+          {
+            "q": "Do you cover multi-day events?",
+            "a": "Yes. Conventions, festivals, and events with continuous programming are part of what we do."
           }
         ]
       },
       {
-        "title": "TO_TRANSLATE: Técnica e entrega",
+        "title": "Technical and delivery",
         "items": [
           {
-            "q": "TO_TRANSLATE: Vocês fornecem internet?",
-            "a": "TO_TRANSLATE: Sim. Para eventos críticos, utilizamos redundância de internet, com link principal e backup, garantindo máxima estabilidade e continuidade da transmissão, mesmo diante de imprevistos."
+            "q": "Do you provide the internet connection?",
+            "a": "Yes. For critical events, we use redundant internet — a primary link plus backup — ensuring maximum stability and continuity of the broadcast, even in unexpected situations."
           },
           {
-            "q": "TO_TRANSLATE: O cliente recebe a gravação depois?",
-            "a": "TO_TRANSLATE: Sim. Entregamos os arquivos master da gravação no fim do evento ou em até 48 horas, conforme o caso."
+            "q": "Does the client receive the recording afterwards?",
+            "a": "Yes. We deliver the master recording files at the end of the event or within 48 hours, depending on the case."
           },
           {
-            "q": "TO_TRANSLATE: Posso usar a gravação pra cortar em conteúdo depois?",
-            "a": "TO_TRANSLATE: Sim, e é justamente um dos motivos da gente entregar a gravação em qualidade master. Muitos clientes usam a captação ao vivo como matéria-prima pra teasers, cortes pra redes sociais, e até peças institucionais. A Pluma também pode fazer essa edição pós-evento como serviço adicional, se for do interesse."
+            "q": "Can I repurpose the recording into other content?",
+            "a": "Yes — and it's one of the reasons we deliver the recording in master quality. Many clients use the live capture as raw material for teasers, social cuts, and institutional pieces. Pluma can also handle the post-event edit as an add-on service if needed."
           },
           {
-            "q": "TO_TRANSLATE: Vocês operam com transmissões privadas ou só públicas?",
-            "a": "TO_TRANSLATE: Os dois. Transmitimos em plataformas públicas (YouTube, Instagram, LinkedIn) e em ambientes privados (Vimeo OTT, plataformas corporativas, sites com login, eventos restritos por convite). Para conteúdo confidencial, configuramos o stream com a segurança necessária."
+            "q": "Do you handle private broadcasts or only public ones?",
+            "a": "Both. We stream to public platforms (YouTube, Instagram, LinkedIn) and to private environments (Vimeo OTT, corporate platforms, gated sites, invitation-only events). For confidential content, we configure the stream with the necessary security layers."
           },
           {
-            "q": "TO_TRANSLATE: E se o evento atrasar ou estender o horário?",
-            "a": "TO_TRANSLATE: A proposta cobre uma duração estimada com margem de tolerância. Se o evento se estender significativamente além do previsto no dia, há uma hora adicional combinada previamente. A ideia é que você não tenha surpresa: tudo isso fica explícito na proposta antes de fechar. Nossa prioridade é garantir a entrega que você precisa, independente das naturais mudanças pelo caminho."
+            "q": "What happens if the event runs long?",
+            "a": "The proposal covers an estimated duration with a tolerance margin. If the event significantly overruns on the day, an additional hourly rate is agreed in advance. The idea is no surprises — everything is explicit in the proposal before you sign. Our priority is delivering what you need, regardless of the natural shifts along the way."
           },
           {
-            "q": "TO_TRANSLATE: Posso contratar só a captação, sem transmissão ao vivo?",
-            "a": "TO_TRANSLATE: Sim. Se você quer apenas o registro em qualidade audiovisual pra usar depois, sem stream ao vivo, fazemos a captação multicâmera e entregamos o material editado ou bruto, como preferir. É um serviço comum pra eventos onde a transmissão não é necessária mas o conteúdo precisa virar peça depois."
+            "q": "Can I book capture only, without live streaming?",
+            "a": "Yes. If you just need a broadcast-quality recording to use later, without a live stream, we handle multi-camera capture and deliver either edited or raw footage — your call. It's a common service for events where transmission isn't needed but the content will become a piece afterwards."
           }
         ]
       },
       {
-        "title": "TO_TRANSLATE: Investimento",
+        "title": "Investment",
         "items": [
           {
-            "q": "TO_TRANSLATE: Qual o ticket médio?",
-            "a": "TO_TRANSLATE: Varia conforme o escopo. Para agilizar o orçamento, nos informe o local, duração e tipo de evento, bem como tudo o que deverá ser transmitido, e em quantas plataformas. Também conversaremos sobre disponibilidade de infraestrutura e quantidade de entregas pós-live. Caso você já tenha um valor em mente, também pode nos informar para alinhar expectativas e propor uma estrutura proporcional."
+            "q": "What's the typical project size?",
+            "a": "It varies by scope. To speed up the quote, share: location, duration, and type of event; what needs to be streamed and to how many platforms; available infrastructure at the venue; and how many post-live deliverables you need. If you already have a budget in mind, mention it — we can align expectations and propose a structure that fits."
           },
           {
-            "q": "TO_TRANSLATE: O que está incluído no orçamento?",
-            "a": "TO_TRANSLATE: A proposta inclui equipe técnica completa (direção, operadores e assistentes conforme o porte, com comunicação sem fio), equipamentos (câmeras, áudio, switcher, encoder), iluminação, internet redundante, configuração das plataformas de streaming, e os arquivos de gravação master ao fim do evento. Itens que variam conforme o evento, como cenografia, teleprompter, tradução simultânea ou deslocamento para outras cidades, são listados separadamente na proposta pra você ter clareza do que está pagando."
+            "q": "What's included in the quote?",
+            "a": "The proposal includes the full technical crew (direction, operators, and assistants scaled to the event, with wireless communication), equipment (cameras, audio, switcher, encoder), lighting, redundant internet, streaming platform setup, and the master recording files at the end of the event. Items that vary by event — staging, teleprompter, simultaneous translation, or travel to other cities — are listed separately in the proposal, so you have full clarity on what you're paying for."
           },
           {
-            "q": "TO_TRANSLATE: Como funciona o pagamento?",
-            "a": "TO_TRANSLATE: Trabalhamos com 50% de sinal na confirmação do projeto e 50% até o dia do evento. Para clientes recorrentes ou eventos de maior porte, é possível negociar diferentes condições. Emitimos nota fiscal em nome da Pluma."
+            "q": "How does payment work for international clients?",
+            "a": "Standard terms are 50% deposit on project confirmation and 50% before the event date. For recurring clients or larger events, we can negotiate different terms. We accept international wire transfer in USD, EUR, or BRL, and issue invoices from Pluma Agência e Produtora Audiovisual LTDA (CNPJ 31.226.493/0001-06)."
           },
           {
-            "q": "TO_TRANSLATE: Vocês têm portfólio de transmissões pra eu ver?",
-            "a": "TO_TRANSLATE: Temos. Como nem toda transmissão pode ser compartilhada publicamente (por confidencialidade do cliente ou por contrato), o portfólio de live streaming é apresentado em conversa, conforme o tipo de evento que você está planejando. Se você nos contar o que está pensando, conseguimos mostrar exemplos próximos."
+            "q": "Do you have a portfolio I can see?",
+            "a": "Yes. Since not every broadcast can be shared publicly (client confidentiality or contract restrictions), we present the live streaming portfolio in conversation, tailored to the type of event you're planning. Tell us what you have in mind and we'll show you the most relevant examples."
           }
         ]
       }
     ]
   },
   "finalCta": {
-    "title": "TO_TRANSLATE: Vamos entrar ao vivo juntos?",
-    "subtitle": "TO_TRANSLATE: Conta pra gente o que você está planejando.\nRespondemos imediatamente.",
-    "cta": "TO_TRANSLATE: Conversar no WhatsApp"
+    "title": "Ready to go live?",
+    "subtitle": "Tell us about your production.\nWe reply quickly.",
+    "cta": "Message us on WhatsApp"
   },
   "footer": {
-    "tagline": "TO_TRANSLATE: Produtora audiovisual. Live streaming com direção cinematográfica.",
-    "instagram": "TO_TRANSLATE: Instagram",
-    "whatsappLabel": "TO_TRANSLATE: WhatsApp:",
-    "cnpjLabel": "TO_TRANSLATE: CNPJ:",
-    "copyright": "TO_TRANSLATE: © 2026 Pluma Agência e Produtora Audiovisual LTDA"
+    "tagline": "Live production company. Cinematic direction. Your in-country partner in Brazil.",
+    "instagram": "Instagram",
+    "whatsappLabel": "WhatsApp:",
+    "cnpjLabel": "Tax ID (CNPJ):",
+    "copyright": "© 2026 Pluma Agência e Produtora Audiovisual LTDA"
   }
 }

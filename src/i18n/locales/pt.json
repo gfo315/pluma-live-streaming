@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "htmlLang": "pt-BR",
+    "title": "Pluma | Live Streaming com Direção Cinematográfica — Rio de Janeiro e São Paulo",
+    "description": "Live streaming com olhar de cinema. A Pluma transmite seu evento ao vivo com direção, decupagem e cuidado estético. Atendimento boutique no Rio de Janeiro e São Paulo."
+  },
+  "whatsapp": {
+    "message": "Olá! Vim do site da Pluma. Quero conversar sobre um live streaming.",
+    "ariaFloat": "Conversar no WhatsApp"
+  },
+  "header": {
+    "logoAlt": "Pluma — página inicial",
+    "nav": {
+      "capabilities": "O que fazemos",
+      "process": "Como funciona",
+      "faq": "Perguntas Frequentes"
+    },
+    "cta": "WhatsApp",
+    "langSwitchAria": "Trocar idioma"
+  },
+  "hero": {
+    "title": "Live streaming com estrutura cinematográfica",
+    "subtitle": "",
+    "ctaPrimary": "Conversar no WhatsApp",
+    "ctaSecondary": "Ver como trabalhamos"
+  },
+  "opening": {
+    "headline": "A sua live merece atenção aos detalhes.",
+    "paragraphs": [
+      "Uma transmissão de excelência começa no planejamento. Antes do evento, analisamos cada detalhe e desenvolvemos uma decupagem técnica que integra direção, captação de imagens, áudio e streaming, antecipando variáveis para garantir uma operação segura e eficiente.",
+      "Mais do que transmitir, dirigimos a experiência. O resultado é uma transmissão fluida, profissional e capaz de representar a qualidade da sua marca do início ao fim.",
+      "Transmitindo ao vivo, não dá pra refazer a cena e nem corrigir em pós. O público vai assistir à sua produção em tempo real."
+    ],
+    "images": {
+      "one": "Direção de live streaming no switcher com múltiplas câmeras",
+      "two": "Operação de switcher durante transmissão ao vivo",
+      "three": "Sala de controle com mosaico de câmeras"
+    }
+  },
+  "capabilities": {
+    "title": "O que entregamos",
+    "badgeNew": "NOVO",
+    "items": [
+      { "key": "multicam", "title": "Multicâmera", "text": "Switching ao vivo com várias câmeras em direção integrada." },
+      { "key": "multiplatform", "title": "Multi-plataforma", "text": "Transmissão simultânea no YouTube, Instagram, LinkedIn e site próprio." },
+      { "key": "multilang", "title": "Multi-idioma", "text": "Faixas de áudio paralelas para tradução simultânea ou conteúdo bilíngue." },
+      { "key": "master", "title": "Gravação master", "text": "Você sai do evento com o material em qualidade de edição, pronto pra virar outros conteúdos." },
+      { "key": "backup", "title": "Backup e redundância", "text": "Trabalhamos com redundância de internet, energia e equipamentos, além de um plano de contingência definido antes do evento para garantir máxima segurança à transmissão." },
+      { "key": "ecommerce", "title": "Vendas de E-Commerce via Chat", "text": "Configuração de sistema automatizado integrado com seu e-commerce para checkout a partir do chat do Instagram ou TikTok.", "badge": true }
+    ]
+  },
+  "differentiators": {
+    "title": "O que nos diferencia",
+    "blocks": [
+      {
+        "title": "Direção muito além da técnica.",
+        "text": "Toda grande transmissão começa com uma direção bem definida. Antes do evento, mergulhamos no briefing para compreender seus objetivos, identificar os momentos mais importantes e planejar cada entrada, conteúdo e interação com o público.\n\nNo dia da transmissão, a direção é conduzida pela mesma equipe que participou desse planejamento. Essa continuidade garante decisões precisas em tempo real e a fidelidade ao conceito definido desde o início, transformando o briefing em uma experiência ao vivo executada com excelência."
+      },
+      {
+        "title": "Orçamento sob medida, sem exageros.",
+        "text": "Cada evento exige soluções sob medida. Por isso, nossa recomendação nunca parte de um pacote padrão, mas dos objetivos, do formato e da experiência que se deseja proporcionar ao público.\n\nPropomos apenas o que realmente agrega valor ao projeto. Quando uma solução não se justifica, somos transparentes. Quando uma oportunidade pode elevar o resultado, fazemos a recomendação. Assim, cada decisão é orientada pela eficiência, pela estratégia e pelo melhor retorno para o seu investimento."
+      },
+      {
+        "title": "Compromisso com a estética.",
+        "text": "Mais do que captar imagens, dirigimos a narrativa visual do seu evento. Cada enquadramento, movimento de câmera, escolha de lente, iluminação e ritmo de edição é pensado para valorizar a mensagem e manter o público envolvido.\n\nSão essas decisões, muitas vezes imperceptíveis, que transformam uma transmissão comum em uma experiência sofisticada, capaz de refletir a qualidade da sua marca e prender a atenção do início ao fim."
+      }
+    ]
+  },
+  "forWhom": {
+    "title": "Para quem é",
+    "items": [
+      { "title": "Eventos corporativos", "text": "Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa." },
+      { "title": "Eventos culturais", "text": "Shows, festivais, ativações em espaços culturais. Captação que vira material de arquivo, não só transmissão descartável." },
+      { "title": "Conteúdo institucional ao vivo", "text": "Webinars, talks, lives recorrentes. Identidade visual consistente entre uma transmissão e outra." },
+      { "title": "Lançamentos de marca", "text": "De mercado imobiliário ao mercado de moda ou acessórios, estamos preparados para o momento em que a sua marca se apresenta pro mundo. " }
+    ]
+  },
+  "process": {
+    "title": "Como funciona",
+    "steps": [
+      { "n": "01", "title": "Conversa inicial", "text": "Você manda mensagem no WhatsApp contando o evento. A gente responde com perguntas, não com orçamento de tabela." },
+      { "n": "02", "title": "Proposta sob medida", "text": "Depois de entender o evento, montamos uma proposta com o que faz sentido. Sem encher de item pra inflar valor." },
+      { "n": "03", "title": "Planejamento técnico e criativo", "text": "Antes do dia, alinhamos câmeras, plataformas, decupagem, e plano de contingência. Você sabe o que vai acontecer antes de acontecer." },
+      { "n": "04", "title": "Transmissão e entrega", "text": "Dirigimos a live ao vivo. No fim, você recebe os arquivos de gravação pra usar como quiser." }
+    ]
+  },
+  "about": {
+    "title": "Quem dirige",
+    "photoAlt": "Guido, diretor de transmissão da Pluma",
+    "bio": "A direção de transmissão da Pluma é assinada por Guido Ferreira.\nDiretor audiovisual com formação em cinema e 10 anos de projetos entregues. É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.",
+    "closer": "A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "groups": [
+      {
+        "title": "Logística e processo",
+        "items": [
+          { "q": "Atendem fora do Rio de Janeiro?", "a": "Sim. Operamos no Rio de Janeiro e em São Paulo. Para eventos em outras capitais, o orçamento inclui deslocamento da direção e equipe técnica." },
+          { "q": "Quanto tempo de antecedência precisam pra fechar um evento?", "a": "O ideal é de duas a quatro semanas, principalmente pra eventos que envolvem mais de duas câmeras ou tradução. Eventos de última hora a gente analisa caso a caso." },
+          { "q": "Fazem cobertura de múltiplos dias?", "a": "Sim. Convenções, festivais e eventos com programação contínua são parte do que fazemos." },
+          { "q": "Vocês fazem só transmissão ou também produzem o evento presencial?", "a": "A Pluma é produtora audiovisual focada em transmissão e captação, e trazemos parceiros de confiança para produzir o evento físico: cenografia, catering, hospitalidade, RSVP, etc." }
+        ]
+      },
+      {
+        "title": "Técnica e entrega",
+        "items": [
+          { "q": "Vocês fornecem internet?", "a": "Sim. Para eventos críticos, utilizamos redundância de internet, com link principal e backup, garantindo máxima estabilidade e continuidade da transmissão, mesmo diante de imprevistos." },
+          { "q": "O cliente recebe a gravação depois?", "a": "Sim. Entregamos os arquivos master da gravação no fim do evento ou em até 48 horas, conforme o caso." },
+          { "q": "Posso usar a gravação pra cortar em conteúdo depois?", "a": "Sim, e é justamente um dos motivos da gente entregar a gravação em qualidade master. Muitos clientes usam a captação ao vivo como matéria-prima pra teasers, cortes pra redes sociais, e até peças institucionais. A Pluma também pode fazer essa edição pós-evento como serviço adicional, se for do interesse." },
+          { "q": "Vocês operam com transmissões privadas ou só públicas?", "a": "Os dois. Transmitimos em plataformas públicas (YouTube, Instagram, LinkedIn) e em ambientes privados (Vimeo OTT, plataformas corporativas, sites com login, eventos restritos por convite). Para conteúdo confidencial, configuramos o stream com a segurança necessária." },
+          { "q": "E se o evento atrasar ou estender o horário?", "a": "A proposta cobre uma duração estimada com margem de tolerância. Se o evento se estender significativamente além do previsto no dia, há uma hora adicional combinada previamente. A ideia é que você não tenha surpresa: tudo isso fica explícito na proposta antes de fechar. Nossa prioridade é garantir a entrega que você precisa, independente das naturais mudanças pelo caminho." },
+          { "q": "Posso contratar só a captação, sem transmissão ao vivo?", "a": "Sim. Se você quer apenas o registro em qualidade audiovisual pra usar depois, sem stream ao vivo, fazemos a captação multicâmera e entregamos o material editado ou bruto, como preferir. É um serviço comum pra eventos onde a transmissão não é necessária mas o conteúdo precisa virar peça depois." }
+        ]
+      },
+      {
+        "title": "Investimento",
+        "items": [
+          { "q": "Qual o ticket médio?", "a": "Varia conforme o escopo. Para agilizar o orçamento, nos informe o local, duração e tipo de evento, bem como tudo o que deverá ser transmitido, e em quantas plataformas. Também conversaremos sobre disponibilidade de infraestrutura e quantidade de entregas pós-live. Caso você já tenha um valor em mente, também pode nos informar para alinhar expectativas e propor uma estrutura proporcional." },
+          { "q": "O que está incluído no orçamento?", "a": "A proposta inclui equipe técnica completa (direção, operadores e assistentes conforme o porte, com comunicação sem fio), equipamentos (câmeras, áudio, switcher, encoder), iluminação, internet redundante, configuração das plataformas de streaming, e os arquivos de gravação master ao fim do evento. Itens que variam conforme o evento, como cenografia, teleprompter, tradução simultânea ou deslocamento para outras cidades, são listados separadamente na proposta pra você ter clareza do que está pagando." },
+          { "q": "Como funciona o pagamento?", "a": "Trabalhamos com 50% de sinal na confirmação do projeto e 50% até o dia do evento. Para clientes recorrentes ou eventos de maior porte, é possível negociar diferentes condições. Emitimos nota fiscal em nome da Pluma." },
+          { "q": "Vocês têm portfólio de transmissões pra eu ver?", "a": "Temos. Como nem toda transmissão pode ser compartilhada publicamente (por confidencialidade do cliente ou por contrato), o portfólio de live streaming é apresentado em conversa, conforme o tipo de evento que você está planejando. Se você nos contar o que está pensando, conseguimos mostrar exemplos próximos." }
+        ]
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Vamos entrar ao vivo juntos?",
+    "subtitle": "Conta pra gente o que você está planejando.\nRespondemos imediatamente.",
+    "cta": "Conversar no WhatsApp"
+  },
+  "footer": {
+    "tagline": "Produtora audiovisual. Live streaming com direção cinematográfica.",
+    "instagram": "Instagram",
+    "whatsappLabel": "WhatsApp:",
+    "cnpjLabel": "CNPJ:",
+    "copyright": "© 2026 Pluma Agência e Produtora Audiovisual LTDA"
+  }
+}

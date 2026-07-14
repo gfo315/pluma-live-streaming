@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "htmlLang": "en",
+    "title": "TO_TRANSLATE: Pluma | Live Streaming com Direção Cinematográfica — Rio de Janeiro e São Paulo",
+    "description": "TO_TRANSLATE: Live streaming com olhar de cinema. A Pluma transmite seu evento ao vivo com direção, decupagem e cuidado estético. Atendimento boutique no Rio de Janeiro e São Paulo."
+  },
+  "whatsapp": {
+    "message": "TO_TRANSLATE: Olá! Vim do site da Pluma. Quero conversar sobre um live streaming.",
+    "ariaFloat": "TO_TRANSLATE: Conversar no WhatsApp"
+  },
+  "header": {
+    "logoAlt": "TO_TRANSLATE: Pluma — página inicial",
+    "nav": {
+      "capabilities": "TO_TRANSLATE: O que fazemos",
+      "process": "TO_TRANSLATE: Como funciona",
+      "faq": "TO_TRANSLATE: Perguntas Frequentes"
+    },
+    "cta": "TO_TRANSLATE: WhatsApp",
+    "langSwitchAria": "TO_TRANSLATE: Trocar idioma"
+  },
+  "hero": {
+    "title": "TO_TRANSLATE: Live streaming com estrutura cinematográfica",
+    "subtitle": "",
+    "ctaPrimary": "TO_TRANSLATE: Conversar no WhatsApp",
+    "ctaSecondary": "TO_TRANSLATE: Ver como trabalhamos"
+  },
+  "opening": {
+    "headline": "TO_TRANSLATE: A sua live merece atenção aos detalhes.",
+    "paragraphs": [
+      "TO_TRANSLATE: Uma transmissão de excelência começa no planejamento. Antes do evento, analisamos cada detalhe e desenvolvemos uma decupagem técnica que integra direção, captação de imagens, áudio e streaming, antecipando variáveis para garantir uma operação segura e eficiente.",
+      "TO_TRANSLATE: Mais do que transmitir, dirigimos a experiência. O resultado é uma transmissão fluida, profissional e capaz de representar a qualidade da sua marca do início ao fim.",
+      "TO_TRANSLATE: Transmitindo ao vivo, não dá pra refazer a cena e nem corrigir em pós. O público vai assistir à sua produção em tempo real."
+    ],
+    "images": {
+      "one": "TO_TRANSLATE: Direção de live streaming no switcher com múltiplas câmeras",
+      "two": "TO_TRANSLATE: Operação de switcher durante transmissão ao vivo",
+      "three": "TO_TRANSLATE: Sala de controle com mosaico de câmeras"
+    }
+  },
+  "capabilities": {
+    "title": "TO_TRANSLATE: O que entregamos",
+    "badgeNew": "TO_TRANSLATE: NOVO",
+    "items": [
+      {
+        "key": "TO_TRANSLATE: multicam",
+        "title": "TO_TRANSLATE: Multicâmera",
+        "text": "TO_TRANSLATE: Switching ao vivo com várias câmeras em direção integrada."
+      },
+      {
+        "key": "TO_TRANSLATE: multiplatform",
+        "title": "TO_TRANSLATE: Multi-plataforma",
+        "text": "TO_TRANSLATE: Transmissão simultânea no YouTube, Instagram, LinkedIn e site próprio."
+      },
+      {
+        "key": "TO_TRANSLATE: multilang",
+        "title": "TO_TRANSLATE: Multi-idioma",
+        "text": "TO_TRANSLATE: Faixas de áudio paralelas para tradução simultânea ou conteúdo bilíngue."
+      },
+      {
+        "key": "TO_TRANSLATE: master",
+        "title": "TO_TRANSLATE: Gravação master",
+        "text": "TO_TRANSLATE: Você sai do evento com o material em qualidade de edição, pronto pra virar outros conteúdos."
+      },
+      {
+        "key": "TO_TRANSLATE: backup",
+        "title": "TO_TRANSLATE: Backup e redundância",
+        "text": "TO_TRANSLATE: Trabalhamos com redundância de internet, energia e equipamentos, além de um plano de contingência definido antes do evento para garantir máxima segurança à transmissão."
+      },
+      {
+        "key": "TO_TRANSLATE: ecommerce",
+        "title": "TO_TRANSLATE: Vendas de E-Commerce via Chat",
+        "text": "TO_TRANSLATE: Configuração de sistema automatizado integrado com seu e-commerce para checkout a partir do chat do Instagram ou TikTok.",
+        "badge": true
+      }
+    ]
+  },
+  "differentiators": {
+    "title": "TO_TRANSLATE: O que nos diferencia",
+    "blocks": [
+      {
+        "title": "TO_TRANSLATE: Direção muito além da técnica.",
+        "text": "TO_TRANSLATE: Toda grande transmissão começa com uma direção bem definida. Antes do evento, mergulhamos no briefing para compreender seus objetivos, identificar os momentos mais importantes e planejar cada entrada, conteúdo e interação com o público.\n\nNo dia da transmissão, a direção é conduzida pela mesma equipe que participou desse planejamento. Essa continuidade garante decisões precisas em tempo real e a fidelidade ao conceito definido desde o início, transformando o briefing em uma experiência ao vivo executada com excelência."
+      },
+      {
+        "title": "TO_TRANSLATE: Orçamento sob medida, sem exageros.",
+        "text": "TO_TRANSLATE: Cada evento exige soluções sob medida. Por isso, nossa recomendação nunca parte de um pacote padrão, mas dos objetivos, do formato e da experiência que se deseja proporcionar ao público.\n\nPropomos apenas o que realmente agrega valor ao projeto. Quando uma solução não se justifica, somos transparentes. Quando uma oportunidade pode elevar o resultado, fazemos a recomendação. Assim, cada decisão é orientada pela eficiência, pela estratégia e pelo melhor retorno para o seu investimento."
+      },
+      {
+        "title": "TO_TRANSLATE: Compromisso com a estética.",
+        "text": "TO_TRANSLATE: Mais do que captar imagens, dirigimos a narrativa visual do seu evento. Cada enquadramento, movimento de câmera, escolha de lente, iluminação e ritmo de edição é pensado para valorizar a mensagem e manter o público envolvido.\n\nSão essas decisões, muitas vezes imperceptíveis, que transformam uma transmissão comum em uma experiência sofisticada, capaz de refletir a qualidade da sua marca e prender a atenção do início ao fim."
+      }
+    ]
+  },
+  "forWhom": {
+    "title": "TO_TRANSLATE: Para quem é",
+    "items": [
+      {
+        "title": "TO_TRANSLATE: Eventos corporativos",
+        "text": "TO_TRANSLATE: Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa."
+      },
+      {
+        "title": "TO_TRANSLATE: Eventos culturais",
+        "text": "TO_TRANSLATE: Shows, festivais, ativações em espaços culturais. Captação que vira material de arquivo, não só transmissão descartável."
+      },
+      {
+        "title": "TO_TRANSLATE: Conteúdo institucional ao vivo",
+        "text": "TO_TRANSLATE: Webinars, talks, lives recorrentes. Identidade visual consistente entre uma transmissão e outra."
+      },
+      {
+        "title": "TO_TRANSLATE: Lançamentos de marca",
+        "text": "TO_TRANSLATE: De mercado imobiliário ao mercado de moda ou acessórios, estamos preparados para o momento em que a sua marca se apresenta pro mundo. "
+      }
+    ]
+  },
+  "process": {
+    "title": "TO_TRANSLATE: Como funciona",
+    "steps": [
+      {
+        "n": "TO_TRANSLATE: 01",
+        "title": "TO_TRANSLATE: Conversa inicial",
+        "text": "TO_TRANSLATE: Você manda mensagem no WhatsApp contando o evento. A gente responde com perguntas, não com orçamento de tabela."
+      },
+      {
+        "n": "TO_TRANSLATE: 02",
+        "title": "TO_TRANSLATE: Proposta sob medida",
+        "text": "TO_TRANSLATE: Depois de entender o evento, montamos uma proposta com o que faz sentido. Sem encher de item pra inflar valor."
+      },
+      {
+        "n": "TO_TRANSLATE: 03",
+        "title": "TO_TRANSLATE: Planejamento técnico e criativo",
+        "text": "TO_TRANSLATE: Antes do dia, alinhamos câmeras, plataformas, decupagem, e plano de contingência. Você sabe o que vai acontecer antes de acontecer."
+      },
+      {
+        "n": "TO_TRANSLATE: 04",
+        "title": "TO_TRANSLATE: Transmissão e entrega",
+        "text": "TO_TRANSLATE: Dirigimos a live ao vivo. No fim, você recebe os arquivos de gravação pra usar como quiser."
+      }
+    ]
+  },
+  "about": {
+    "title": "TO_TRANSLATE: Quem dirige",
+    "photoAlt": "TO_TRANSLATE: Guido, diretor de transmissão da Pluma",
+    "bio": "TO_TRANSLATE: A direção de transmissão da Pluma é assinada por Guido Ferreira.\nDiretor audiovisual com formação em cinema e 10 anos de projetos entregues. É comprometido com atendimento individualizado para tomar decisões criativas e técnicas de imagem e áudio, que garantem o melhor resultado final.",
+    "closer": "TO_TRANSLATE: A Pluma une essa direção autoral à estrutura de uma produtora audiovisual completa."
+  },
+  "faq": {
+    "title": "TO_TRANSLATE: Perguntas frequentes",
+    "groups": [
+      {
+        "title": "TO_TRANSLATE: Logística e processo",
+        "items": [
+          {
+            "q": "TO_TRANSLATE: Atendem fora do Rio de Janeiro?",
+            "a": "TO_TRANSLATE: Sim. Operamos no Rio de Janeiro e em São Paulo. Para eventos em outras capitais, o orçamento inclui deslocamento da direção e equipe técnica."
+          },
+          {
+            "q": "TO_TRANSLATE: Quanto tempo de antecedência precisam pra fechar um evento?",
+            "a": "TO_TRANSLATE: O ideal é de duas a quatro semanas, principalmente pra eventos que envolvem mais de duas câmeras ou tradução. Eventos de última hora a gente analisa caso a caso."
+          },
+          {
+            "q": "TO_TRANSLATE: Fazem cobertura de múltiplos dias?",
+            "a": "TO_TRANSLATE: Sim. Convenções, festivais e eventos com programação contínua são parte do que fazemos."
+          },
+          {
+            "q": "TO_TRANSLATE: Vocês fazem só transmissão ou também produzem o evento presencial?",
+            "a": "TO_TRANSLATE: A Pluma é produtora audiovisual focada em transmissão e captação, e trazemos parceiros de confiança para produzir o evento físico: cenografia, catering, hospitalidade, RSVP, etc."
+          }
+        ]
+      },
+      {
+        "title": "TO_TRANSLATE: Técnica e entrega",
+        "items": [
+          {
+            "q": "TO_TRANSLATE: Vocês fornecem internet?",
+            "a": "TO_TRANSLATE: Sim. Para eventos críticos, utilizamos redundância de internet, com link principal e backup, garantindo máxima estabilidade e continuidade da transmissão, mesmo diante de imprevistos."
+          },
+          {
+            "q": "TO_TRANSLATE: O cliente recebe a gravação depois?",
+            "a": "TO_TRANSLATE: Sim. Entregamos os arquivos master da gravação no fim do evento ou em até 48 horas, conforme o caso."
+          },
+          {
+            "q": "TO_TRANSLATE: Posso usar a gravação pra cortar em conteúdo depois?",
+            "a": "TO_TRANSLATE: Sim, e é justamente um dos motivos da gente entregar a gravação em qualidade master. Muitos clientes usam a captação ao vivo como matéria-prima pra teasers, cortes pra redes sociais, e até peças institucionais. A Pluma também pode fazer essa edição pós-evento como serviço adicional, se for do interesse."
+          },
+          {
+            "q": "TO_TRANSLATE: Vocês operam com transmissões privadas ou só públicas?",
+            "a": "TO_TRANSLATE: Os dois. Transmitimos em plataformas públicas (YouTube, Instagram, LinkedIn) e em ambientes privados (Vimeo OTT, plataformas corporativas, sites com login, eventos restritos por convite). Para conteúdo confidencial, configuramos o stream com a segurança necessária."
+          },
+          {
+            "q": "TO_TRANSLATE: E se o evento atrasar ou estender o horário?",
+            "a": "TO_TRANSLATE: A proposta cobre uma duração estimada com margem de tolerância. Se o evento se estender significativamente além do previsto no dia, há uma hora adicional combinada previamente. A ideia é que você não tenha surpresa: tudo isso fica explícito na proposta antes de fechar. Nossa prioridade é garantir a entrega que você precisa, independente das naturais mudanças pelo caminho."
+          },
+          {
+            "q": "TO_TRANSLATE: Posso contratar só a captação, sem transmissão ao vivo?",
+            "a": "TO_TRANSLATE: Sim. Se você quer apenas o registro em qualidade audiovisual pra usar depois, sem stream ao vivo, fazemos a captação multicâmera e entregamos o material editado ou bruto, como preferir. É um serviço comum pra eventos onde a transmissão não é necessária mas o conteúdo precisa virar peça depois."
+          }
+        ]
+      },
+      {
+        "title": "TO_TRANSLATE: Investimento",
+        "items": [
+          {
+            "q": "TO_TRANSLATE: Qual o ticket médio?",
+            "a": "TO_TRANSLATE: Varia conforme o escopo. Para agilizar o orçamento, nos informe o local, duração e tipo de evento, bem como tudo o que deverá ser transmitido, e em quantas plataformas. Também conversaremos sobre disponibilidade de infraestrutura e quantidade de entregas pós-live. Caso você já tenha um valor em mente, também pode nos informar para alinhar expectativas e propor uma estrutura proporcional."
+          },
+          {
+            "q": "TO_TRANSLATE: O que está incluído no orçamento?",
+            "a": "TO_TRANSLATE: A proposta inclui equipe técnica completa (direção, operadores e assistentes conforme o porte, com comunicação sem fio), equipamentos (câmeras, áudio, switcher, encoder), iluminação, internet redundante, configuração das plataformas de streaming, e os arquivos de gravação master ao fim do evento. Itens que variam conforme o evento, como cenografia, teleprompter, tradução simultânea ou deslocamento para outras cidades, são listados separadamente na proposta pra você ter clareza do que está pagando."
+          },
+          {
+            "q": "TO_TRANSLATE: Como funciona o pagamento?",
+            "a": "TO_TRANSLATE: Trabalhamos com 50% de sinal na confirmação do projeto e 50% até o dia do evento. Para clientes recorrentes ou eventos de maior porte, é possível negociar diferentes condições. Emitimos nota fiscal em nome da Pluma."
+          },
+          {
+            "q": "TO_TRANSLATE: Vocês têm portfólio de transmissões pra eu ver?",
+            "a": "TO_TRANSLATE: Temos. Como nem toda transmissão pode ser compartilhada publicamente (por confidencialidade do cliente ou por contrato), o portfólio de live streaming é apresentado em conversa, conforme o tipo de evento que você está planejando. Se você nos contar o que está pensando, conseguimos mostrar exemplos próximos."
+          }
+        ]
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "TO_TRANSLATE: Vamos entrar ao vivo juntos?",
+    "subtitle": "TO_TRANSLATE: Conta pra gente o que você está planejando.\nRespondemos imediatamente.",
+    "cta": "TO_TRANSLATE: Conversar no WhatsApp"
+  },
+  "footer": {
+    "tagline": "TO_TRANSLATE: Produtora audiovisual. Live streaming com direção cinematográfica.",
+    "instagram": "TO_TRANSLATE: Instagram",
+    "whatsappLabel": "TO_TRANSLATE: WhatsApp:",
+    "cnpjLabel": "TO_TRANSLATE: CNPJ:",
+    "copyright": "TO_TRANSLATE: © 2026 Pluma Agência e Produtora Audiovisual LTDA"
+  }
+}

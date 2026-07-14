@@ -78,6 +78,7 @@ export function LocaleLayout() {
   const title = t("meta.title");
   const description = t("meta.description");
   const canonical = `${SITE_URL}/${currentLang}`;
+  const faqGroups = t("faq.groups", { returnObjects: true }) as FAQGroup[];
 
   return (
     <>
@@ -96,6 +97,7 @@ export function LocaleLayout() {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <script type="application/ld+json">{JSON.stringify(orgJsonLd(currentLang))}</script>
+        <script type="application/ld+json">{JSON.stringify(faqJsonLd(currentLang, faqGroups))}</script>
       </Helmet>
       <Outlet />
     </>

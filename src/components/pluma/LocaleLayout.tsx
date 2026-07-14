@@ -7,13 +7,14 @@ import { SUPPORTED_LANGS, type Lang } from "@/i18n";
 const SITE_URL = "https://cinematic-stream-landing.lovable.app";
 
 function orgJsonLd(lang: Lang) {
+  const inLanguage = lang === "pt" ? "pt-BR" : "en";
   return {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "ProfessionalService",
         "@id": `${SITE_URL}/${lang}#organization`,
-        inLanguage: lang === "pt" ? "pt-BR" : "en",
+        inLanguage,
         name: "Pluma Agência e Produtora Audiovisual",
         alternateName: "Pluma",
         url: `${SITE_URL}/${lang}`,
@@ -34,6 +35,25 @@ function orgJsonLd(lang: Lang) {
         sameAs: ["https://www.instagram.com/pluma.std"],
       },
     ],
+  };
+}
+
+type FAQGroup = { title: string; items: { q: string; a: string }[] };
+
+function faqJsonLd(lang: Lang, groups: FAQGroup[]) {
+  const inLanguage = lang === "pt" ? "pt-BR" : "en";
+  const questions = groups.flatMap((g) =>
+    g.items.map((it) => ({
+      "@type": "Question",
+      name: it.q,
+      acceptedAnswer: { "@type": "Answer", text: it.a },
+    })),
+  );
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    inLanguage,
+    mainEntity: questions,
   };
 }
 

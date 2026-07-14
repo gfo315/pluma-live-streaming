@@ -1,16 +1,15 @@
-const items = [
-  { title: "Eventos corporativos", text: "Lançamentos, convenções, palestras internas. A gente entrega uma transmissão que sustenta a imagem da empresa." },
-  { title: "Eventos culturais", text: "Shows, festivais, ativações em espaços culturais. Captação que vira material de arquivo, não só transmissão descartável." },
-  { title: "Conteúdo institucional ao vivo", text: "Webinars, talks, lives recorrentes. Identidade visual consistente entre uma transmissão e outra." },
-  { title: "Lançamentos de marca", text: "De mercado imobiliário ao mercado de moda ou acessórios, estamos preparados para o momento em que a sua marca se apresenta pro mundo. " },
-];
+import { useTranslation } from "react-i18next";
+
+type Item = { title: string; text: string };
 
 export function ForWhom() {
+  const { t } = useTranslation();
+  const items = t("forWhom.items", { returnObjects: true }) as Item[];
   return (
     <section className="px-6 py-24 md:py-32">
       <div className="mx-auto max-w-6xl">
         <h2 className="font-display text-4xl font-bold tracking-tight text-pluma-offwhite md:text-5xl">
-          Para quem é
+          {t("forWhom.title")}
         </h2>
         <div className="mt-14 grid gap-6 md:grid-cols-2">
           {items.map((it) => (

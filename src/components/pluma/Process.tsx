@@ -1,16 +1,15 @@
-const steps = [
-  { n: "01", title: "Conversa inicial", text: "Você manda mensagem no WhatsApp contando o evento. A gente responde com perguntas, não com orçamento de tabela." },
-  { n: "02", title: "Proposta sob medida", text: "Depois de entender o evento, montamos uma proposta com o que faz sentido. Sem encher de item pra inflar valor." },
-  { n: "03", title: "Planejamento técnico e criativo", text: "Antes do dia, alinhamos câmeras, plataformas, decupagem, e plano de contingência. Você sabe o que vai acontecer antes de acontecer." },
-  { n: "04", title: "Transmissão e entrega", text: "Dirigimos a live ao vivo. No fim, você recebe os arquivos de gravação pra usar como quiser." },
-];
+import { useTranslation } from "react-i18next";
+
+type Step = { n: string; title: string; text: string };
 
 export function Process() {
+  const { t } = useTranslation();
+  const steps = t("process.steps", { returnObjects: true }) as Step[];
   return (
     <section id="processo" className="bg-pluma-cosmo px-6 py-24 md:py-32">
       <div className="mx-auto max-w-6xl">
         <h2 className="font-display text-4xl font-bold tracking-tight text-pluma-offwhite md:text-5xl">
-          Como funciona
+          {t("process.title")}
         </h2>
         <ol className="mt-16 grid gap-10 md:grid-cols-2 lg:grid-cols-4 lg:gap-8">
           {steps.map((s) => (

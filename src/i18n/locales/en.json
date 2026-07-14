@@ -25,11 +25,11 @@
     "ctaSecondary": "See our process"
   },
   "opening": {
-    "headline": "Producing in Brazil, without the friction.",
+    "headline": "Your production partners in Rio, ensuring frictionless livestreaming.",
     "paragraphs": [
-      "A great live broadcast starts long before broadcast day. We work directly with your team from the initial brief, aligning creative direction, technical planning, and on-the-ground logistics. Everything runs in English, everything happens on the ground in Brazil.",
-      "More than streaming, we direct the experience. From the first call to the final master file, you have one point of contact who knows your production inside out. No language friction. No translation losses. No handoffs to strangers on event day.",
-      "Live is unforgiving. You can't reshoot. You can't fix it in post. That's why we treat your broadcast the way a director treats a film — with planning, taste, and technical rigor."
+      "A great live broadcast starts long before broadcast day. We work directly with your team from the initial brief, aligning creative direction, technical planning, and on-the-ground logistics. We run the backend in English with your team, and everything happens in Portuguese in Brazil with our team.",
+      "More than streaming, we direct the experience. From the first call to the final master file, you have one point of contact who knows your production inside out. No handoffs to strangers on event day.",
+      "Live is unforgiving. You can't reshoot or fix it in post. That's why we treat your broadcast the way a director treats a film — with planning, taste, and technical rigor."
     ],
     "images": {
       "one": "Live streaming direction at the switcher with multiple cameras",
@@ -54,7 +54,7 @@
       {
         "key": "multilang",
         "title": "Multi-language",
-        "text": "Parallel audio tracks for simultaneous translation or bilingual content — essential for international audiences."
+        "text": "Parallel audio tracks for simultaneous translation or bilingual content."
       },
       {
         "key": "master",
@@ -140,7 +140,7 @@
   "about": {
     "title": "Meet the director",
     "photoAlt": "Guido Ferreira, live production director at Pluma",
-    "bio": "Pluma's live production direction is led by Guido Ferreira.\nAudiovisual director with cinematic training and 10 years of delivered projects. Fluent in English and Portuguese, Guido is your single point of contact from the first message to the final delivery — making the creative and technical decisions in image and sound with the individual attention you'd expect from a boutique studio, and speaking your language every step of the way.",
+    "bio": "Pluma's live production direction is led by Guido Ferreira.\nAudiovisual director with an undergraduate degree in Film and 10 years of delivered projects. Fluent in English and Portuguese, Guido is your single point of contact from the first message to the final delivery — making the creative and technical decisions in image and sound with the individual attention you'd expect from a boutique studio, and speaking your language every step of the way.",
     "closer": "Pluma combines that authorial direction with the structure of a full production company on the ground in Brazil."
   },
   "faq": {
@@ -151,11 +151,11 @@
         "items": [
           {
             "q": "Do you work with international clients?",
-            "a": "Yes — international agencies, production companies, and brand teams are a core part of what we do. We serve as your in-country partner in Brazil: you brief us in English, we handle direction, coordination, and delivery on the ground. Everything runs in your language, everything happens on ours."
+            "a": "Yes. International agencies, production companies, and brand teams are a core part of what we do. We serve as your in-country partner in Brazil: you brief us in English, we handle direction, coordination, and delivery on the ground. Everything runs in your language, everything happens on ours."
           },
           {
             "q": "Where in Brazil do you operate?",
-            "a": "Our base is in Rio de Janeiro. We operate directly in Rio, São Paulo, and travel to other Brazilian capitals for larger productions. For events outside Brazil, we can travel or coordinate with trusted partners in your region."
+            "a": "Our base is in Rio de Janeiro. We operate directly in Rio, São Paulo, and travel to other Brazilian capitals for larger productions."
           },
           {
             "q": "How much lead time do you need to book an event?",
@@ -163,7 +163,7 @@
           },
           {
             "q": "Do you handle only the broadcast, or the full physical event too?",
-            "a": "Pluma is an audiovisual production company focused on live broadcast and capture. We work with trusted partners for the physical event side: staging, catering, hospitality, RSVP. For international clients producing in Brazil, we can coordinate the full local team on your behalf — one point of contact, one invoice, no chasing multiple vendors."
+            "a": "Pluma is an audiovisual production company focused on live broadcast and capture. We work with trusted partners for the physical event side: staging, catering, hospitality, RSVP. For international clients producing in Brazil, we can coordinate the full local team on your behalf — maintaining our commitment with centrality and unified infrastructure."
           },
           {
             "q": "Do you cover multi-day events?",
@@ -176,15 +176,15 @@
         "items": [
           {
             "q": "Do you provide the internet connection?",
-            "a": "Yes. For critical events, we use redundant internet — a primary link plus backup — ensuring maximum stability and continuity of the broadcast, even in unexpected situations."
+            "a": "Yes. For critical events, we use redundant internet: a primary link plus backup. We ensure stability and continuity of the broadcast."
           },
           {
             "q": "Does the client receive the recording afterwards?",
-            "a": "Yes. We deliver the master recording files at the end of the event or within 48 hours, depending on the case."
+            "a": "Yes. We deliver the master recording files at the end of the event or within 48 hours, depending on your post-production needs."
           },
           {
             "q": "Can I repurpose the recording into other content?",
-            "a": "Yes — and it's one of the reasons we deliver the recording in master quality. Many clients use the live capture as raw material for teasers, social cuts, and institutional pieces. Pluma can also handle the post-event edit as an add-on service if needed."
+            "a": "Yes, and it's one of the reasons we deliver the recording in master quality. Many clients use the live capture as raw material for teasers, social cuts, and institutional pieces. Pluma can also handle the post-event edit as an add-on service if needed."
           },
           {
             "q": "Do you handle private broadcasts or only public ones?",
@@ -192,11 +192,11 @@
           },
           {
             "q": "What happens if the event runs long?",
-            "a": "The proposal covers an estimated duration with a tolerance margin. If the event significantly overruns on the day, an additional hourly rate is agreed in advance. The idea is no surprises — everything is explicit in the proposal before you sign. Our priority is delivering what you need, regardless of the natural shifts along the way."
+            "a": "The proposal covers an estimated duration with a tolerance margin. If the event significantly overruns on the day, an additional hourly rate is agreed in advance. The idea is to have no surprises: everything is explicit in the proposal before you sign. Our priority is delivering what you need, regardless of the natural shifts along the way."
           },
           {
             "q": "Can I book capture only, without live streaming?",
-            "a": "Yes. If you just need a broadcast-quality recording to use later, without a live stream, we handle multi-camera capture and deliver either edited or raw footage — your call. It's a common service for events where transmission isn't needed but the content will become a piece afterwards."
+            "a": "Yes. If you just need a broadcast-quality recording to use later, without a live stream, we handle multi-camera capture and deliver either edited or raw footage. It's a common service for events or podcasts where transmission isn't needed but the content will become a piece afterwards."
           }
         ]
       },
@@ -205,11 +205,11 @@
         "items": [
           {
             "q": "What's the typical project size?",
-            "a": "It varies by scope. To speed up the quote, share: location, duration, and type of event; what needs to be streamed and to how many platforms; available infrastructure at the venue; and how many post-live deliverables you need. If you already have a budget in mind, mention it — we can align expectations and propose a structure that fits."
+            "a": "It varies by scope. To speed up the quote, share: location, duration, and type of event; what needs to be streamed and to how many platforms; available infrastructure at the venue; and how many post-live deliverables you need. If you already have a budget in mind, mention it: we can align expectations and propose a structure that fits."
           },
           {
             "q": "What's included in the quote?",
-            "a": "The proposal includes the full technical crew (direction, operators, and assistants scaled to the event, with wireless communication), equipment (cameras, audio, switcher, encoder), lighting, redundant internet, streaming platform setup, and the master recording files at the end of the event. Items that vary by event — staging, teleprompter, simultaneous translation, or travel to other cities — are listed separately in the proposal, so you have full clarity on what you're paying for."
+            "a": "The proposal includes the full technical crew (direction, operators, and assistants scaled to the event, with wireless communication), equipment (cameras, audio, switcher, encoder), lighting, redundant internet, streaming platform setup, and the master recording files at the end of the event. Items that vary by event (staging, teleprompter, simultaneous translation, or travel to other cities) are listed separately in the proposal, so you have full clarity on what you're paying for."
           },
           {
             "q": "How does payment work for international clients?",

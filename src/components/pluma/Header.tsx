@@ -1,18 +1,22 @@
 import { useEffect, useState } from "react";
-import { useNavigate, useParams, useLocation } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useWhatsappUrl } from "@/hooks/useWhatsappUrl";
 import { SUPPORTED_LANGS, type Lang } from "@/i18n";
 import plumaLogotype from "@/assets/pluma-logotype.svg";
 
+const LOCALIZED_ROUTES: Record<string, Record<Lang, string>> = {
+  privacy: { pt: "/pt/politica-de-privacidade", en: "/en/privacy-policy" },
+};
+
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const { t } = useTranslation();
   const whatsappUrl = useWhatsappUrl();
-  const { lang } = useParams<{ lang: string }>();
   const navigate = useNavigate();
   const location = useLocation();
-  const current: Lang = SUPPORTED_LANGS.includes(lang as Lang) ? (lang as Lang) : "pt";
+  const seg = location.pathname.split("/")[1];
+  const current: Lang = SUPPORTED_LANGS.includes(seg as Lang) ? (seg as Lang) : "pt";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -21,13 +25,19 @@ export function Header() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  const equivalentPath = (target: Lang): string => {
+    for (const routes of Object.values(LOCALIZED_ROUTES)) {
+      if (location.pathname === routes[current]) return routes[target];
+    }
+    return `/${target}${location.hash}`;
+  };
+
   const switchTo = (target: Lang) => {
     if (target === current) return;
     try {
       window.localStorage.setItem("pluma-lang", target);
     } catch {}
-    const hash = location.hash;
-    navigate(`/${target}${hash}`, { replace: false });
+    navigate(equivalentPath(target), { replace: false });
   };
 
   const homeHref = `/${current}#top`;

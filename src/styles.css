@@ -122,3 +122,81 @@
   transition: transform 400ms ease-out;
 }
 .pluma-underline:hover::after { transform: scaleX(1); }
+
+/* Long-form article prose (Privacy Policy, legal docs) */
+.pluma-prose {
+  color: var(--pluma-offwhite);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+.pluma-prose h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 2.5rem;
+  line-height: 1.1;
+}
+.pluma-prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  color: var(--pluma-offwhite);
+}
+.pluma-prose h3 {
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--pluma-fluor);
+}
+.pluma-prose p {
+  margin-bottom: 1.25rem;
+  color: rgba(225, 237, 248, 0.85);
+}
+.pluma-prose strong {
+  color: var(--pluma-offwhite);
+  font-weight: 600;
+}
+.pluma-prose a {
+  color: var(--pluma-fluor);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 200ms ease;
+}
+.pluma-prose a:hover { opacity: 0.75; }
+.pluma-prose ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: rgba(225, 237, 248, 0.85);
+}
+.pluma-prose ul li { margin-bottom: 0.5rem; }
+.pluma-prose ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.pluma-prose code {
+  background: rgba(225, 237, 248, 0.08);
+  padding: 0.125rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.pluma-prose hr {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+  margin: 2.5rem 0;
+}
+.pluma-prose blockquote {
+  border-left: 2px solid var(--pluma-sky);
+  padding-left: 1rem;
+  color: rgba(225, 237, 248, 0.7);
+  font-style: italic;
+  margin: 1.5rem 0;
+}
+

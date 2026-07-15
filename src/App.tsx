@@ -13,10 +13,13 @@ import { Footer } from "@/components/pluma/Footer";
 import { WhatsAppFloat } from "@/components/pluma/WhatsAppFloat";
 import { LocaleLayout } from "@/components/pluma/LocaleLayout";
 import { RootRedirect } from "@/components/pluma/RootRedirect";
+import { LandingSEO } from "@/components/pluma/LandingSEO";
+import { PrivacyPage } from "@/components/pluma/PrivacyPage";
 
 function LandingPage() {
   return (
     <div className="min-h-screen bg-pluma-cosmo text-pluma-offwhite">
+      <LandingSEO />
       <Header />
       <main>
         <Hero />
@@ -39,8 +42,11 @@ export function App() {
   return (
     <Routes>
       <Route path="/" element={<RootRedirect />} />
-      <Route path="/:lang" element={<LocaleLayout />}>
-        <Route index element={<LandingPage />} />
+      <Route element={<LocaleLayout />}>
+        <Route path="/pt" element={<LandingPage />} />
+        <Route path="/pt/politica-de-privacidade" element={<PrivacyPage lang="pt" />} />
+        <Route path="/en" element={<LandingPage />} />
+        <Route path="/en/privacy-policy" element={<PrivacyPage lang="en" />} />
       </Route>
       <Route path="*" element={<RootRedirect />} />
     </Routes>
